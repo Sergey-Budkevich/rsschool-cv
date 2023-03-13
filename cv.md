@@ -11,3 +11,15 @@
 I chose this direction because I like to create and see the result of my work. I started my learning with John Ducket's book "HTML and CSS". Convinced that I really like this direction, I took courses and continue to expand my knowledge through articles and YouTube. I enjoy writing code and dealing with bugs. I am purposeful, responsible, friendly and calm in relation to routine work. I consider the strong side of my character to be the constant desire to learn new things, improve the knowledge already gained and be the best in my field.
 
 ---
+
+## Hard skills: 
+* HTML
+* CSS, SCSS
+* JavaScript
+* TypeScript
+* React
+* Redux, Redux Toolkit
+* React-router
+* Git
+* Webpack
+---
