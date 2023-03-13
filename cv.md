@@ -49,3 +49,18 @@ function isPangram(str){
     - Imitation of the payment system, the choice of tariffs and more.
   + **Technologies:** *TypeScript, React, Redux Toolkit, React-router, HTML, CSS, Git.*
   + **Libraries:** *Styled-components, Material UI, Moment.js, Chart.js.*
+---
+
+
+## Courses:
+* **TeachMeSkills «Front End Developer(React)» :**  April 2022 - December 2022 
+  ![](/assets/images/certificate.png)
+
+* **CIAO.BY - English school :**  January 2023 - Now
+* **RS Schools Course «JavaScript/Front-end. Stage 1» :**  March 2023 - Now
+---
+
+
+## Languages:
+* **English** - Pre-Intermediate(a2)
+* **Russian** - Native
