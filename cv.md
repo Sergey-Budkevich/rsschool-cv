@@ -35,3 +35,17 @@ function isPangram(str){
 }
 ```
 ---
+
+
+## Eperience:
+* [Portfolio](https://sergey-budkevich.github.io/Portfolio/)
+  + **Portfolio project demonstrating skills and abilities, in which you can see my other projects**
+  + **Technologies:** *HTML, CSS, Native JS, Git, GitHub pages*
+* [Finance](https://github.com/Sergey-Budkevich/Finance)
+  + **The project demonstrates the skills acquired during the training. In theapplication you can see:**
+    - Registration works on the basis of a local server connected to the MongoDB database.
+    - The application contains data pulled from external APIs.
+    - Currency Converter, cryptocurrencies, financial market news. You can see the change in the prices of cryptocurrencies on the chart.
+    - Imitation of the payment system, the choice of tariffs and more.
+  + **Technologies:** *TypeScript, React, Redux Toolkit, React-router, HTML, CSS, Git.*
+  + **Libraries:** *Styled-components, Material UI, Moment.js, Chart.js.*
